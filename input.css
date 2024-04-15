@@ -18,6 +18,7 @@ a {
 }
 .mark {
   width: 70px;
+  align-items: center;
 }
 
 .super {
@@ -130,6 +131,7 @@ a {
   width: 650px;
   height: 600px;
   border-radius: 20px;
+  margin-right: -160px;
 }
 .style-three {
   background-color: red;
